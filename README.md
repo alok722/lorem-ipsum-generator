@@ -6,7 +6,7 @@
 
 > an angular webapp to generate and copy lorem-ipsum
 
-## 🔥 [Home](https://alok722.github.io/lorem-ipsum-generator/index.html)
+## 🔥 [Home](https://alok722.github.io/lorem-ipsum-generator/)
 
 ## 📸 screenshot
 ![demo](./src/assets/demo.JPG)
